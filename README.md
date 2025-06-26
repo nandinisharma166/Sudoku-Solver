@@ -39,9 +39,14 @@ You can input a Sudoku puzzle, validate it, and solve it instantly using a backt
 
 ## 📦 Setup Instructions
 
-```bash
-# Clone the repo
+# 1. Clone the repository
+
 git clone https://github.com/nandinisharma166/Sudoku-Solver.git
 
-# Open index.html in your browser
-```
+# 2. Move into the project directory
+
+cd Sudoku-Solver
+
+# 3. Open the app in your browser
+
+# (You can just double-click index.html or run it using a Live Server in VS Code)
